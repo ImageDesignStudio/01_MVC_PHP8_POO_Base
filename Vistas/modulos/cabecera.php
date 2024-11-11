@@ -1,0 +1,1 @@
+<h1>Contenido del módulo cabecera</h1>
